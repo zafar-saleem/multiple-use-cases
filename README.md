@@ -1,0 +1,1 @@
+All the usecases are in their respective folders with readme inside them. Please go through readme on how to test them.
