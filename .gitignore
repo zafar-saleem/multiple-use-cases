@@ -1,3 +1,4 @@
 ./1-sweets/node_modules/
 ./1-sweets/dist/
+./2-design//build/
 .DS_Store
